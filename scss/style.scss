@@ -1,6 +1,6 @@
 /******* Bootstrap Theming ********/
 
-$primary: #D19C97;
+$primary: #000000;
 $secondary: #EDF1FF;
 $light: #FFFFFF;
 $dark: #1C1C1C;
@@ -14,7 +14,7 @@ $theme-colors: (
 
 $font-family-sans-serif: 'Poppins', sans-serif;
 
-$body-color: #6F6F6F;
+$body-color: #5e1d1d;
 
 $headings-color: $dark;
 
@@ -32,7 +32,7 @@ $btn-active-box-shadow: none;
 
 $input-btn-focus-box-shadow: none;
 
-$input-placeholder-color: #999999;
+$input-placeholder-color: #ffffff;
 
 @import "bootstrap/scss/bootstrap";
 
